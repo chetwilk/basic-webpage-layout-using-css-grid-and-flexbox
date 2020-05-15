@@ -1,5 +1,2 @@
-# My First Project 
-
-This is a sample git repository containing some sample files.
-
-I added some text to the README file using Github's editor.
+# Basic Web Page Layout Using CSS Grid and Flexbox
+This is a simple experiment applying CSS Grid and CSS Flexbox to a basic web page layout.
